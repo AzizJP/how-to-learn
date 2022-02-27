@@ -192,7 +192,10 @@
   align-items: center;
   position: relative;
   min-height: 890px;
+  background: url(../images/feynman.png) no-repeat;
+  background-position: bottom left;
   background-color: #f2f2f2;
+
 }
 
 .feynman__title {
@@ -223,15 +226,6 @@
   text-decoration: none;
   color: #2f80ed;
   z-index: 1;
-}
-
-.feynman__img {
-  background: url(../images/feynman.png) no-repeat center/cover;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 867px;
-  height: 637px;
 }
 
 /*content__kaufman*/
@@ -309,6 +303,9 @@
 }
 
 .footer__author {
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
   margin: 18px 0;
 }
 
