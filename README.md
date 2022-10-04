@@ -9,7 +9,7 @@
 
 **GitHub**
 
-* [Ссылка на проект](https://azizjp.github.io/how-to-learn/)
+* [Ссылка на GitHub](https://github.com/AzizJP/how-to-learn)
 
 Технологии применяемые в проекте:
 * Язык для структурирования и представления содержимого - HTML5
